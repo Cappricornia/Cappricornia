@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cappricornia&label=Profile%20views&color=0e75b6&style=flat" alt="cappricornia" /> </p>
 
-🌱 I’m currently learning
+💡 I’m currently learning
   <p>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </p>
 <p>
- 👨‍💻 All of my projects are available at
+ 🖧 All of my projects are available at
 </p>
 <p>
    <a href="https://github.com/Cappricornia?tab=repositories" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/23/Github-Logo-PNG-Photos-1.png" width="70" height="70"/></a>
