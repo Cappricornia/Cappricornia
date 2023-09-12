@@ -40,6 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cappricornia&show_icons=true&locale=en" alt="cappricornia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cappricornia&" alt="cappricornia" /></p>
-
 </div>
