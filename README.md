@@ -11,7 +11,7 @@
      <img src="https://i0.wp.com/kevinfream.blog/wp-content/uploads/2013/01/java.jpg" alt="java" width="40" height="40"/>
   </p>
 <p>
- 🖧 All of my projects are available at
+ 🖧 All of my repos are available at
 </p>
 <p>
    <a href="https://github.com/Cappricornia?tab=repositories" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/23/Github-Logo-PNG-Photos-1.png" width="70" height="70"/></a>
