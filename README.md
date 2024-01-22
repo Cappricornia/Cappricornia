@@ -1,6 +1,7 @@
 <div style="background-color: white; padding: 20px;">
-<h1 align="center">Hello 👋! I'm Diyana Hristova</h1>
-<h3 align="center">I am an entry-level QA enthusiast 🪲 with a strong passion for automation testing 🛠️, eager to contribute to software quality and grow in the field.</h3>
+<h1 align="center">Hello! 👋 Welcome to my GitHub! 🔥</h1>
+<h3 align="center">I'm Diyana Hristova - a QA Enthusiast 🪲 who is diving into the QA field to broaden my skills, focusing on quality assurance to ensure the overall quality of the product. <p> With a keen interest in both manual and automation testing 🛠️, I'm excited to contribute to software quality and thrive in the dynamic world of testing ✅.</p>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cappricornia&label=Profile%20views&color=0e75b6&style=flat" alt="cappricornia" /> </p>
 
